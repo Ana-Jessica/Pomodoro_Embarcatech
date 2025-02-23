@@ -1,0 +1,5 @@
+[wokwi]
+version = 1
+firmware ='./build/BitDogLab.hex'
+elf = './build/BitDogLab.elf'
+gdbServerPort=3333
